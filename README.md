@@ -1,6 +1,6 @@
 # tumblr-cli
 
-tumblr-cli is a simple client which makes a post to Tumblr.com given a directory. It is for my personal use but you may use it if you like. It is not meant to be a full-fledged client, but a simple one.
+tumblr-cli is a simple command line interface client which makes a post to Tumblr.com given a directory. It is for my personal use but you may use it if you like. It is not meant to be a full-fledged client, but a simple one.
 
 ## Dependencies
 
