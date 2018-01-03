@@ -50,10 +50,3 @@ If you want to post to a blog different than your primary blog, then your blog U
 ### Short-hand
 
 To make a text post directly from command line without opening any editors or anything, use the "-m" argument, followed by the text post. Currently, whitespace is ignored.
-
-
-## Todo:
-- Add support for uploading photo sets. I do not know how to do this
-- Add support for post editing and maybe post index listing
-- Find out why it always published publicly
-- Put on pip
